@@ -1,4 +1,4 @@
-![Super Store Sales Dashboard](https://github.com/user-attachments/assets/5ff6ac84-0361-4253-9c78-3a38bace0741)![Super Store Sales Dashboard](https://github.com/user-attachments/assets/c1033352-c754-4c2f-9656-7cf9a72a569c)# 🛒 Power BI - Super Store Sales Dashboard
+![Super Store Sales Dashboard](https://github.com/user-attachments/assets/c1033352-c754-4c2f-9656-7cf9a72a569c)# 🛒 Power BI - Super Store Sales Dashboard
 
 This Power BI project provides an interactive dashboard for analyzing *Super Store Sales* using various business KPIs and visualizations.
 
